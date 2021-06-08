@@ -676,7 +676,8 @@ body.boxed-v #wrapper {
 
 
 /*------------------------------------------------------------------
-	3. main headinig styles / .main-heading
+	3. main headinig styles / 
+
 -------------------------------------------------------------------*/
 
 .main-heading {
@@ -688,6 +689,7 @@ body.boxed-v #wrapper {
     margin: 0 0 18px;
     font: Helvetica, sans-serif;
     font-size: 23px;
+margin-top: 20px;
 }
 
 .main-heading p {
