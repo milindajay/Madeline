@@ -689,7 +689,7 @@ body.boxed-v #wrapper {
     margin: 0 0 18px;
     font: Helvetica, sans-serif;
     font-size: 23px;
-margin-top: 20px;
+    margin-top: 20px;
 }
 
 .main-heading p {
@@ -1771,4 +1771,8 @@ img.social-icons {
         -o-transform: scaleY(1);
         transform: scaleY(1);
     }
+}
+
+.price-box.point-box {
+    border: none;
 }
