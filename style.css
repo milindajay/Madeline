@@ -1776,3 +1776,8 @@ img.social-icons {
 .price-box.point-box {
     border: none;
 }
+
+.col-md-6.first-col-adress-card {
+    background: #ffffff;
+    text-align: end;
+}
