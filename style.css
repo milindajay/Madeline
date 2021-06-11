@@ -1777,7 +1777,44 @@ img.social-icons {
     border: none;
 }
 
-.col-md-6.first-col-adress-card {
+.card-adress-container {
+    margin-top: 20px;
+    display: flex;
+    width: 100%;
+}
+
+.card-adress {
+    display: table-cell;
+}
+
+.col-md-5.first-col-adress-card {
     background: #ffffff;
     text-align: end;
+    border-radius: 3px;
+}
+
+h3.address-card-title {
+    font-size: 22px;
+    font-weight: 700;
+}
+
+span.bolder-text {
+    font-weight: 800;
+}
+
+span.circle-number {
+    background: #000000;
+    color: #ffffff;
+    font-weight: 800;
+    margin: 3px;
+    padding: 5px;
+    border-radius: 50%;
+}
+
+.second-col-adress-card {
+    background: #000000;
+    color: #ffffff;
+    padding: 70px;
+    text-align: center;
+    border-radius: 3px;
 }
